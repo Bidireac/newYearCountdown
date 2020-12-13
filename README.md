@@ -23,3 +23,7 @@ To run this project, open the index.html file.
 
 ## Status
 Project is:  _finished
+
+## Live Demo
+
+https://peaceful-morse-95f8f9.netlify.app
